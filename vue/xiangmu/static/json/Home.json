@@ -1,0 +1,200 @@
+{
+  "pic": "../../../static/img/yhcs.png",
+  "pic1": "../../../static/img/bflh.png",
+  "pic2": "../../../static/img/time_ms.png",
+  "one":[
+  {
+    "title": "青菜1分",
+    "name": "健康计划",
+    "pics": "../../../static/img/p_sc.jpg"
+  },
+  {
+    "title": "今晚21点",
+    "name": "满30减15",
+    "pics": "../../../static/img/p_sc1.png"
+  },
+  {
+    "title": "满30减15",
+    "name": "鸡蛋一元抢",
+    "pics": "../../../static/img/p_sc2.png"
+  },
+    {
+      "title": "满49减30",
+      "name": "鲜果大放价",
+      "pics": "../../../static/img/p_sc3.png"
+    }
+],
+  "ms":[
+    {
+      "title": "￥7.9",
+      "name": "￥9.9",
+      "pics": "../../../static/img/mspic.png"
+    },
+    {
+      "title": "￥22",
+      "name": "￥55",
+      "pics": "../../../static/img/mspic1.png"
+    },
+    {
+      "title": "￥1",
+      "name": "￥15",
+      "pics": "../../../static/img/mspic2.png"
+    },
+    {
+      "title": "￥8.8",
+      "name": "￥12",
+      "pics": "../../../static/img/mspic3.png"
+    },
+    {
+      "title": "￥30.6",
+      "name": "￥50",
+      "pics": "../../../static/img/mspic4.png"
+    },
+    {
+      "title": "￥2.9",
+      "name": "￥6.9",
+      "pics": "../../../static/img/mspic5.png"
+    },
+    {
+      "title": "￥12.9",
+      "name": "￥19.9",
+      "pics": "../../../static/img/mspic6.png"
+    },
+    {
+      "title": "￥17.9",
+      "name": "￥19.9",
+      "pics": "../../../static/img/mspic7.png"
+    }
+  ],
+  "lbtss":[
+    {
+      "piclb": "../../../static/img/lbt2.png"
+    },
+    {
+      "piclb": "../../../static/img/lbt3.png"
+    },
+    {
+      "piclb": "../../../static/img/lbt4.png"
+    },
+    {
+      "piclb": "../../../static/img/lbt1.png"
+    }
+  ],
+  "goods":[
+    {
+      "title": "超市便利",
+      "pics": "../../../static/img/home_shops.png"
+    },
+    {
+      "title": "新鲜果蔬",
+      "pics": "../../../static/img/home_gs.png"
+    },
+    {
+      "title": "烘培蛋糕",
+      "pics": "../../../static/img/home_dg.png"
+    },
+    {
+      "title": "医药健康",
+      "pics": "../../../static/img/home_yy.png"
+    },
+    {
+      "title": "新人专属",
+      "pics": "../../../static/img/home_xr.png"
+    },
+    {
+      "title": "VIP会员",
+      "pics": "../../../static/img/home_vip.png"
+    },
+    {
+      "title": "帮助中心",
+      "pics": "../../../static/img/home_help.png"
+    },
+    {
+      "title": "邀请有奖",
+      "pics": "../../../static/img/home_yq.png"
+    },
+    {
+      "title": "签 到",
+      "pics": "../../../static/img/home_qd.png"
+    },
+    {
+      "title": "鲜花绿植",
+      "pics": "../../../static/img/home_xh.png"
+    }
+
+  ],
+
+    "adds":"西安软件园",
+    "sousuo":"便利宅的生活",
+    "banners":"../../../static/img/banner_pic.jpg",
+  "hds":[
+    {"titles":"酸奶"},{"titles":"牛奶"},{"titles":"面包"},{"titles":"玫瑰"},
+    {"titles":"卫生纸"},{"titles":"洗衣液"},{"titles":"洗发水"},{"titles":"鸡蛋"}
+  ],
+  "mine_hd":[
+    {"name":"二胡与歌"},
+    {"gold":"金牌"},
+    {"nums":"京享值"},
+    {"value":"小白信用"}
+  ],
+  "my_prodct":[
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    },
+    {
+      "title": "【送袜】安踏篮球鞋舒适透气高帮运动鞋NBA减震",
+      "money": "369.00",
+      "look": "看相似",
+      "pics": "../../../static/img/xiezi.jpg"
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+
+

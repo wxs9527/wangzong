@@ -1,0 +1,277 @@
+body, div, p, ol, ul, li, dl, dt, dd, form, table, tr, td, hr, h1, h2, h3, h4, h5, h6, fieldset, img, input, figure {
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    height:100%;
+}
+
+html{
+    font-size: 26.67vw;
+}
+
+
+body{
+    -webkit-flex-direction:column;
+    font-family: "微软雅黑",Arial;
+    background: #f6f6f6;
+}
+
+ul,li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+img{
+    display: inline-block;
+}
+#app{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+nav{
+    flex: 1;
+    overflow-y: scroll;
+}
+header{
+    width: 97%;
+    height: 0.5rem;
+    display: flex;
+    margin: 0 auto;
+    position: absolute;
+    justify-content: space-between;
+}
+header p{
+    width: 0.5rem;
+    height: 0.5rem;
+    display: block;
+    display: flex;
+}
+header p .iconfont{
+    font-size: 0.3rem;
+    color: #8c8c8c;
+    line-height: .5rem;
+
+}
+header span{
+    display: inline-block;
+    width: 0.8rem;
+    height: 0.5rem;
+    display: flex;
+}
+header span .iconfont{
+    font-size: 0.2rem;
+    color: #8c8c8c;
+    border-radius: 50%;
+    line-height: 0.5rem;
+}
+.nav{
+    width: 97%;
+    height: 100%;
+    margin: 0 auto;
+}
+.nav img{
+    width: 100%;
+    height: 3rem;
+}
+.nav1{
+    width: 100%;
+    background: white;
+    display: flex;
+    border-bottom: 1px solid #e5e5e5;
+    justify-content:space-between;
+}
+.nav1 span:nth-child(1){
+    display: inline-block;
+    font-size: 0.16rem;
+    width:80%;
+}
+
+.nav_a{
+    width: 20%;
+    display: flex;
+    text-align: center;
+    font-size: 1rem;
+}
+.hr{
+    font-size: 0.15rem!important;
+    line-height: 0.36rem;
+}
+.nav_a .iconfont{
+    font-size: 0.3rem;
+    display: block;
+    text-align: center;
+    color: #000;
+}
+.nav_b{
+     font-size: 0.15rem;
+ }
+.nav_b span{
+    font-size: 0.15rem;
+    color: gray;
+}
+.nav_b p{
+    display: block;
+    height: 0.4rem;
+    border-bottom: 1px solid #e5e5e5;
+    line-height: 0.4rem;
+    background: white;
+}
+#h{
+   border: 1px solid #ab09ad;
+    background: 0;
+    color: #ab09ad;
+}
+.b .iconfont {
+    font-size: 0.25rem;
+    color: red;
+}
+.nav_b p a{
+    background: #e73823;
+    color: white;
+    border-radius: 5px;
+}
+.nav_b p img{
+    height: 0.4rem;
+    width: 1rem;
+}
+.yunfei{
+    margin-top: 0.3rem;
+    display: flex!important;
+}
+.long{
+    width: 97%;
+    height: 0.4rem;
+    display: flex;
+    margin: 0.3rem auto;
+    font-size: 0.13rem;
+    line-height: 0.4rem;
+    background: white;
+}
+.long img{
+    height: 0.2rem;
+    margin-top: 0.1rem;
+}
+.char{
+    width:100%;
+    height: 0.8rem;
+    background: white;
+    overflow: hidden;
+    display: flex;
+    font-size: 0.16rem;
+    justify-content: space-between;
+}
+.char p{
+    text-align: center;
+    line-height: 0.3rem;
+}
+.char1{
+    width: 50%;
+    height: 85%;
+    margin-top: 0.1rem;
+    border-right: 1px solid #8c8c8c;
+
+}
+.char2{
+    width: 50%;
+    height: 85%;
+    margin-top: 0.1rem;
+}
+.longs{
+    width: 97%;
+    height: 0.65rem;
+    display: flex;
+    margin: 0.1rem auto;
+    font-size: 0.16rem;
+    line-height: 0.65rem;
+    background: white;
+}
+.longs img{
+    width: 0.4rem;
+    height: 0.3rem;
+    margin-top: 0.175rem;
+}
+.longes{
+    width: 97%;
+    height: 1.8rem;
+    margin: 0 auto;
+    font-size: 0.18rem;
+
+    background: white;
+}
+.longes p{
+    width: 100%;
+    height: 0.6rem;
+    line-height: 0.6rem;
+}
+.longes1 span:nth-child(2){
+        float: right;
+}
+.longes2 span{
+    width: 0.8rem;
+    height: 0.3rem;
+    display: inline-block;
+    border-radius: 0.25rem;
+    background: #fdf1f3;
+    margin-left: 0.1rem;
+    line-height: 0.35rem;
+    text-align: center;
+    font-size: 0.11rem;
+}
+.pingjia{
+    width: 97%;
+    margin: 0 auto;
+    font-size: 0.18rem;
+    background: white;
+}
+.pingjia ul{
+    list-style: none;
+
+}
+.pingjia ul li{
+   line-height: 0.2rem;
+}
+.fotter{
+    width:100%;
+    height: 0.65rem;
+
+}
+.fotter .iconfont{
+    font-size: 0.3rem;
+    display: block;
+}
+.fotter1 {
+    float: left;
+    width: 60%;
+    font-size: 0.16rem;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+.fotter2{
+    font-size: 0.2rem;
+    width: 40%;
+    height: 0.65rem;
+    line-height: 0.65rem;
+    color: white;
+    float: right;
+    text-align: center;
+    background: #df3222;
+}
+
+
+
+
+
+

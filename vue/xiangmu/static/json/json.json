@@ -1,0 +1,60 @@
+{
+   "ones":[
+       {
+           "pic":"../../../static/img/a.png",
+           "title":"时髦街头潮搭",
+           "pics":"../../../static/img/asics.png",
+           "titles":"唯品会旗舰店"
+
+       },
+       {
+        "pic":"../../../static/img/b.png",
+        "title":"时髦街头潮搭",
+        "pics":"../../../static/img/asics.png",
+        "titles":"唯品会旗舰店"
+
+        },
+        {
+            "pic":"../../../static/img/b.png",
+            "title":"时髦街头潮搭",
+            "pics":"../../../static/img/asics.png",
+            "titles":"唯品会旗舰店"
+    
+        },
+        {
+            "pic":"../../../static/img/a.png",
+            "title":"时髦街头潮搭",
+            "pics":"../../../static/img/asics.png",
+            "titles":"唯品会旗舰店"
+    
+         },
+         {
+            "pic":"../../../static/img/b.png",
+            "title":"时髦街头潮搭",
+            "pics":"../../../static/img/asics.png",
+            "titles":"唯品会旗舰店"
+    
+            },
+            {
+                "pic":"../../../static/img/b.png",
+                "title":"时髦街头潮搭",
+                "pics":"../../../static/img/asics.png",
+                "titles":"唯品会旗舰店"
+        
+                },
+                {
+                    "pic":"../../../static/img/b.png",
+                    "title":"时髦街头潮搭",
+                    "pics":"../../../static/img/asics.png",
+                    "titles":"唯品会旗舰店"
+            
+                    },
+                    {
+                        "pic":"../../../static/img/b.png",
+                        "title":"时髦街头潮搭",
+                        "pics":"../../../static/img/asics.png",
+                        "titles":"唯品会旗舰店"
+                
+                        }
+   ]
+}

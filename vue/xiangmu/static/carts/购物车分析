@@ -1,0 +1,59 @@
+1.layout
+2.搭建一个开发的环境 static server
+  express
+  npm install express
+3.分析需求，针对页面 数据模型
+  3.1 需要开发功能:
+  1.需要根据当前登录用户获取carts信息
+  2.根据当前的carts的信息列表,统计出当前的总的件数,总价格
+  3.能够修改每件商品的件数,但是必须有一件,增加件数无要求
+  4.当修改了商品的购买件数,总的价格和数据都应该同时改变
+
+  3.2 概要设计 vue
+  html component
+  css  sass/stylus
+  js   es6/ts
+  framework vue/angular/react
+
+  vue mvvm
+
+  3.3 详细设计
+  一,数据 (业务数据(数据模型)/原始数据MOCK)
+  分析出数据模型:
+  商品数量 totalNum
+  总价格： totalMoney
+  商品: product{pic,title,price,qal}
+  商品列表: products : [product,product]
+
+  cartsModel: { totalNum,totalMoeny....}
+
+  从数据模型中找出关系(核心模型)
+  user-> productList  -> product
+  productList:[
+     {pic,title,price,qal},
+     {pic,title,price,qal},
+  ]
+
+  主要关系模型(数据类型)
+   productList:[
+       {pic:string,title:string,price:number,qal:number},
+       {pic:string,title:string,price:number,qal:number},
+   ]
+
+二,算法设计
+ totalNum计算 :所有商品的件数之和
+ totalMoney计算 : 件数*价格(每件) 总和
+
+4.根据数据模型的关系mock接口
+
+[
+  {"title":"日着原创设计女装 拼接网纱连衣裙","price":300,"pic":"assets/77f4.jpg","qal":1},
+  {"title":"妮朵雅2017春夏季新款韩版修身中长款","price":200,"pic":"assets/93b92.jpg","qal":1},
+  {"title":"Tianan2017夏季新款韩版短袖宽松中长款","price":400,"pic":"assets/a13.jpg","qal":1},
+  {"title":"伶婉2017春装新款韩版修身显瘦春夏季雪","price":600,"pic":"assets/b358.jpg","qal":2},
+  {"title":"SexeMara连衣裙2017春夏季新款女装韩","price":100,"pic":"assets/e2.jpg","qal":1},
+  {"title":"韩都衣舍2017韩版女装夏装新款宽松显瘦","price":800,"pic":"assets/e54.jpg","qal":1}
+]
+
+5.开发
+  1.创建viewmodel,

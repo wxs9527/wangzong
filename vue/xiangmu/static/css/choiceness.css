@@ -1,0 +1,142 @@
+@charset "utf-8";
+/*css document*/
+body,div,p,ul,ol,li,dl,dt,dd,table,tr,td,th,form,h1,h2,h3,h4,h5,h6,input,textarea,fieldset,figure{
+	margin:0;
+	padding:0;
+}
+html,body{
+	height: 100%;
+}
+html{
+	font-size: 26.67vw;
+}
+body{
+	font-family:"微软雅黑",Arial;
+}
+ul,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+img{
+	border:0;
+	display: block;
+}
+/*section*/
+section{
+	width: 100%;
+	background-color: #f7f7f7;
+}
+.lunbo{
+	width: 3.55rem;
+	height: 1.34rem;
+	background-color: white;
+	border-radius: 0.07rem;
+	margin: 0.1rem auto;
+}
+.list_one{
+	width: 3.55rem;
+	height: 3.24rem;
+	background-color: white;
+	border-radius: 0.07rem;
+	margin: 0 auto;
+	margin-bottom: 0.05rem;
+}
+.list_one h3{
+	font-size: 0.15rem;
+	color: #000000;
+	padding-top: 0.2rem;
+	margin-bottom: 0.18rem;
+	margin-left: 0.15rem;
+}
+.list_one img{
+	width: 2.26rem;
+	height: 2.26rem;
+	margin-left: 0.15rem;
+}
+.list_one_a{
+	width: 100%;
+	margin-top: 0.15rem;
+	display: -webkit-flex;
+	-webkit-align-items: center;
+	-webkit-justify-content: space-between;
+}
+.one_a_one{
+	display: -webkit-flex;
+	-webkit-align-items: center;
+}
+.one_a_one p{
+	margin-left: 0.05rem;
+}
+.list_one .list_one_a img{
+	width: 0.16rem;
+	height: 0.16rem;
+	border-radius: 50%;
+}
+.list_one p{
+	color: #828282;
+	font-size: 0.11rem;
+	margin-right: 0.16rem;
+}
+.list_two{
+	width: 3.55rem;
+	height: 1.41rem;
+	background-color: white;
+	border-radius: 0.07rem;
+	margin: 0 auto;
+	margin-bottom: 0.05rem;
+	display: -webkit-flex;
+	-webkit-align-items: center;
+}
+.two_left{
+	width: 1.65rem;
+}
+.two_left p{
+	font-size: 0.15rem;
+	color: #000000;
+	margin-left: 0.17rem;
+	line-height: 0.25rem;
+	/*padding-top: 0.11rem;*/
+}
+.two_left_bot{
+	margin-top: 0.19rem;
+	display: -webkit-flex;
+	-webkit-align-items: center;
+}
+.two_left_bot img{
+	border-radius:50%;
+	width: 0.14rem;
+	height: 0.14rem;
+	margin-left: 0.17rem;
+}
+.two_left_bot span{
+	font-size: 0.1rem;
+	color: #7d7b7d;
+}
+.two_right{
+	width: 1.42rem;
+	height: 1.1rem;
+	background-color: pink;
+	margin-left: 0.18rem;
+	border-radius: 0.02rem;
+}
+
+.dingbu{
+	position: fixed;
+	bottom: 1.15rem;
+	right:0.13rem;
+	width: 0.39rem;
+	height: 0.39rem;
+	border-radius: 50%;
+	border: 3px solid #dfdadf;
+	display: -webkit-flex;
+	-webkit-align-items: center;
+	-webkit-justify-content: center;
+}
+.dingbu .iconfont{
+	margin: 0;
+	font-size: 0.21rem;
+	color: #222522;
+	font-weight:600;
+}

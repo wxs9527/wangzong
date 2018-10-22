@@ -1,0 +1,450 @@
+{
+  "header_msg":{},
+  "slider_box":{},
+  "act-center":{},
+  "timeBuy":{
+    "one":{
+      "times":{
+        "imgSrc":"./static/img/tb0.jpg",
+        "timeStart":"18:00",
+        "timeEnd":"01：54：51"
+      },
+      "arr":[
+        {
+          "imgSrc": "./static/img/miaosha0.jpg",
+          "currMoney": "6149",
+          "pastMoney": "6799"
+        },
+        {
+          "imgSrc": "./static/img/miaosha1.jpg",
+          "currMoney": "6149",
+          "pastMoney": "6799"
+        },
+        {
+          "imgSrc": "./static/img/miaosha2.jpg",
+          "currMoney": "6149",
+          "pastMoney": "6799"
+        }
+      ]
+    },
+    "two":{
+        "txtImg":"./static/img/tb1.jpg",
+          "txt":"高品质生活",
+        "imgSrc1":"./static/img/find1.jpg",
+        "imgSrc2":"./static/img/find2.jpg"
+    },
+    "three":[
+      {
+        "class":"trademarkli radiusfind",
+        "imgSrc1": "./static/img/tb2.jpg",
+        "text": "满99减50",
+        "imgSrc2": "./static/img/pp1.jpg"
+      },
+      {
+        "class":"trademarkli",
+        "imgSrc1": "./static/img/tb3.jpg",
+        "text": "3件5折",
+        "imgSrc2": "./static/img/pp2.jpg"
+      }
+    ],
+    "four": {
+      "txtImg": "./static/img/tb4.jpg",
+      "txt": "会买专辑",
+      "imgSrc1": "./static/img/pl1.jpg",
+      "imgSrc2": "./static/img/pl2.jpg"
+    }
+  },
+  "daily_stroll": {
+    "one": [
+      {
+        "class":"findgoods radiustopleft",
+        "txtImg": "./static/img/daily_stroll0.jpg",
+        "txt": "品牌特卖   晚8点直播专享价",
+        "imgSrc1": "./static/img/dy1.jpg",
+        "imgSrc2": "./static/img/dy2.jpg"
+      },
+      {
+        "class":"findgoods radiustopright",
+        "txtImg": "./static/img/daily_stroll1.jpg",
+        "txt": "看看大家都在买什么",
+        "imgSrc1": "./static/img/dy3.jpg",
+        "imgSrc2": "./static/img/dy4.jpg"
+      }
+    ],
+    "two":{
+      "title": "女神范",
+      "txt": "一周7天百变穿 好看到犯规",
+      "imgSrc1": "./static/img/dy5.jpg",
+      "imgSrc2": "./static/img/dy6.jpg"
+    },
+    "three":[
+      {
+        "class":"trademarkli",
+        "title": "新品首发",
+        "text": "iPhone XR",
+        "imgSrc": "./static/img/dy7.jpg"
+      },
+      {
+        "class":"trademarkli radiusli",
+        "title": "京造",
+        "text": "限时1元购",
+        "imgSrc": "./static/img/pp2.jpg"
+      }
+    ]
+  },
+  "play_first":{
+    "one": [
+      {
+        "class":"radiusimg_left",
+        "imgSrc": "./static/img/py1.jpg"
+      },
+      {
+        "class":"radiusimg_right",
+        "imgSrc": "./static/img/py2.jpg"
+      }
+    ],
+    "two": [
+      {
+        "txtImg": "./static/img/py3.jpg",
+        "txt": "品牌特卖   晚8点直播专享价",
+        "imgSrc1": "./static/img/pygoods1.jpg",
+        "imgSrc2": "./static/img/pygoods2.jpg"
+      },
+      {
+        "txtImg": "./static/img/py4.jpg",
+        "txt": "看看大家都在买什么",
+        "imgSrc1": "./static/img/pygoods3.jpg",
+        "imgSrc2": "./static/img/pygoods4.jpg"
+      }
+    ],
+    "three":{
+      "title": "酷玩科技",
+      "txt": "华为Mate20？先睹为快",
+      "imgSrc1": "./static/img/pygoods5.jpg",
+      "imgSrc2": "./static/img/pygoods6.jpg"
+    },
+    "four":[
+      {
+        "class":"trademarkli",
+        "title": "优享免息",
+        "text": "分期免息费",
+        "imgSrc": "./static/img/pygoods7.jpg"
+      },
+      {
+        "class":"trademarkli radiusli",
+        "title": "运动户外",
+        "text": "彪马新款",
+        "imgSrc": "./static/img/pygoods8.jpg"
+      }
+]
+  },
+  "fashion":{
+    "one": [
+      {
+        "class":"radiusimg_left",
+        "imgSrc": "./static/img/fa1.jpg"
+      },
+      {
+        "class":"radiusimg_right",
+        "imgSrc": "./static/img/fa2.jpg"
+      }
+    ],
+    "two": [
+      {
+        "txtImg": "./static/img/fa3.jpg",
+        "txt": "京东美妆9周年   满199减100",
+        "imgSrc1": "./static/img/fagoods1.jpg",
+        "imgSrc2": "./static/img/fagoods2.jpg"
+      },
+      {
+        "txtImg": "./static/img/fa4.jpg",
+        "txt": "全球进口品质时尚第一站",
+        "imgSrc1": "./static/img/fagoods3.jpg",
+        "imgSrc2": "./static/img/fagoods4.jpg"
+      }
+    ],
+    "three":[
+      {
+        "class":"trademarkli radiusfind",
+        "title": "奢品大牌",
+        "text": "奢品大牌",
+        "imgSrc": "./static/img/fagoods5.jpg"
+      },
+      {
+        "class":"trademarkli",
+        "title": "美丽装扮",
+        "text": "满199减100",
+        "imgSrc": "./static/img/fagoods6.jpg"
+      }
+    ],
+    "four":[
+      {
+        "class":"trademarkli radiusli",
+        "title": "新品风尚",
+        "text": "低至39元",
+        "imgSrc": "./static/img/fagoods7.jpg"
+      },
+      {
+        "class":"trademarkli",
+        "title": "时尚衣橱",
+        "text": "撞色穿搭季",
+        "imgSrc": "./static/img/fagoods8.jpg"
+      }
+    ]
+  },
+  "life":{
+    "one": [
+      {
+        "class":"radiusimg_left",
+        "imgSrc": "./static/img/li1.jpg"
+      },
+      {
+        "class":"radiusimg_right",
+        "imgSrc": "./static/img/li2.jpg"
+      }
+    ],
+    "two": [
+      {
+        "txtImg": "./static/img/li3.jpg",
+        "txt": "京东美妆9周年   满199减100",
+        "imgSrc1": "./static/img/ligoods1.jpg",
+        "imgSrc2": "./static/img/ligoods2.jpg"
+      },
+      {
+        "txtImg": "./static/img/li4.jpg",
+        "txt": "全球进口品质时尚第一站",
+        "imgSrc1": "./static/img/ligoods3.jpg",
+        "imgSrc2": "./static/img/ligoods4.jpg"
+      }
+    ],
+    "three":[
+      {
+        "class":"trademarkli radiusfind",
+        "title": "奢品大牌",
+        "text": "奢品大牌",
+        "imgSrc": "./static/img/ligoods5.jpg"
+      },
+      {
+        "class":"trademarkli",
+        "title": "美丽装扮",
+        "text": "满199减100",
+        "imgSrc": "./static/img/ligoods6.jpg"
+      }
+    ],
+    "four":[
+      {
+        "class":"trademarkli radiusli",
+        "title": "新品风尚",
+        "text": "低至39元",
+        "imgSrc": "./static/img/ligoods7.jpg"
+      },
+      {
+        "class":"trademarkli",
+        "title": "时尚衣橱",
+        "text": "撞色穿搭季",
+        "imgSrc": "./static/img/ligoods8.jpg"
+      }
+    ]
+  },
+  "eat":{
+    "one": [
+      {
+        "class":"radiusimg_left",
+        "imgSrc": "./static/img/py1.jpg"
+      },
+      {
+        "class":"radiusimg_right",
+        "imgSrc": "./static/img/py2.jpg"
+      }
+    ],
+    "two": [
+      {
+        "txtImg": "./static/img/py3.jpg",
+        "txt": "品牌特卖   晚8点直播专享价",
+        "imgSrc1": "./static/img/pygoods1.jpg",
+        "imgSrc2": "./static/img/pygoods2.jpg"
+      },
+      {
+        "txtImg": "./static/img/py4.jpg",
+        "txt": "看看大家都在买什么",
+        "imgSrc1": "./static/img/pygoods3.jpg",
+        "imgSrc2": "./static/img/pygoods4.jpg"
+      }
+    ],
+    "three":{
+      "title": "酷玩科技",
+      "txt": "华为Mate20？先睹为快",
+      "imgSrc1": "./static/img/pygoods5.jpg",
+      "imgSrc2": "./static/img/pygoods6.jpg"
+    },
+    "four":[
+      {
+        "class":"trademarkli",
+        "title": "优享免息",
+        "text": "分期免息费",
+        "imgSrc": "./static/img/pygoods7.jpg"
+      },
+      {
+        "class":"trademarkli radiusli",
+        "title": "运动户外",
+        "text": "彪马新款",
+        "imgSrc": "./static/img/pygoods8.jpg"
+      }
+    ]
+  },
+  "affordable_good":{},
+  "recommend":{},
+  "farmer":{},
+  "tea":{},
+  "find_shop":{},
+  "mv":{},
+ " sinatv":{},
+  "youlike":[
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods1.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"Apple iPhone XR 苹果新款 全网通4G手机...",
+      "price":"8999.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods2.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"LG菲诗小铺The Face Shop 洗发水沐浴露...",
+      "price":"108.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods3.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"Apple 全新 正版 苹果 iPhone7 Plus/苹果6...",
+      "price":"2199.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods4.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"卡姿兰（Carslan）素颜霜1#水润雪肌 50g 补...",
+      "price":"99.00",
+      "pclass":"",
+      "ptext":""
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods5.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"宏碁（Acer）15.6英寸金属办公便携式轻薄笔记...",
+      "price":"4899.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods6.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"herbal essences美国进口无硅油芳疗洗发...",
+      "price":"86.00",
+      "pclass":"",
+      "ptext":""
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods7.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"Apple 全新 正品 苹果 iPhone7/7Plus/6...",
+      "price":"2199.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods8.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"自然堂（CHANDO）粉红素颜霜5g装...",
+      "price":"25.00",
+      "pclass":"",
+      "ptext":""
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods9.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"戴尔 DELL成就15.6英寸商务办公轻薄便携笔记...",
+      "price":"4999.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods10.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"戴尔 DELL旗舰店燃5000 高清大屏15.6英寸...",
+      "price":"4199.00",
+      "pclass":"",
+      "ptext":""
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods11.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"自然堂（CHANDO）亮透水光素颜霜50g...",
+      "price":"167.00",
+      "pclass":"",
+      "ptext":""
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods12.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"兰蔻Lancome大粉水补水保湿爽肤水，轻盈柔...",
+      "price":"299.00",
+      "pclass":"",
+      "ptext":""
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods13.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"LG The face shop 菲诗小铺甜密爱恋香...",
+      "price":"45.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods14.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"卡姿兰（Carslan）素颜霜1#水润雪肌 50g 补...",
+      "price":"45.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods15.jpg",
+      "icon":"./static/img/ziying.png",
+      "text":"卡姿兰口红套装小样持久不掉色 不沾杯 口红套盒...",
+      "price":"79.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    },
+    {
+      "class":"youlike_goodsli",
+      "goods":"./static/img/youlikegoods7.jpg",
+      "icon":"./static/img/quanqiugouicon.png",
+      "text":"Apple 全新 正品 苹果 iPhone7/7Plus/6...",
+      "price":"2199.00",
+      "pclass":"goodsactive",
+      "ptext":"同兴趣用户浏览过的好货"
+    }
+
+  ]
+}
+

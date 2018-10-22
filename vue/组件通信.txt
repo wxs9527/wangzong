@@ -1,0 +1,2 @@
+   在vue js中  父子组件的关系可以总结为 props down events up 
+父组件通过props向下传递数据给子组件  子组件通过events给父组件发送消息 

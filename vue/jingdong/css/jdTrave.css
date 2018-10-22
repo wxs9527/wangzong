@@ -1,0 +1,91 @@
+body, div, p, ol, ul, li, dl, dt, dd, form, table, tr, td, hr, h1, h2, h3, h4, h5, h6, fieldset, img, input, figure {
+    margin: 0;
+    padding: 0;
+}
+
+body,html{
+    height:100%;
+}
+
+html{
+    font-size: 26.67vw;
+}
+
+
+body{
+    background: #f4f4f4;
+    display: -webkit-flex;
+    -webkit-flex-direction:column;
+    font-family: "微软雅黑",Arial;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+}
+
+ul,li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+.header{
+    width: 100%;
+    height: 0.4rem;
+    color: white;
+    font-size: 0.25rem;
+    position: absolute;
+    z-index: 21;
+}
+.header1{
+    width: 97%;
+    height: 0.4rem;
+    margin:  0 auto;
+    display: flex;
+    line-height: 0.4rem;
+    justify-content: space-between;
+}
+.header1 .iconfont{
+    font-size: 0.25rem;
+}
+.long{
+    width: 100%;
+    height: 5.7rem;
+    background: white;
+    position: relative;
+}
+.long1{
+    width: 100%;
+    height: 4.8rem;
+    background: #e73823;
+}
+.long2{
+    width: 93%;
+    height:1.9rem;
+    background: white;
+    position: absolute;
+    bottom: 0.12rem;
+    left: 0.13rem;
+    font-size: 0.09rem;
+
+}
+.long2 img{
+    display: block;
+    width: 0.4rem;
+    height: 0.4rem;
+    margin-top: 0.2rem;
+}
+.long2 span{
+    display: block;
+}
+.h{
+    flex-direction: column;
+    text-align: center;
+}
+.long_a{
+    width:100%;
+    height: 0.95rem;
+    display: flex;
+    justify-content: space-around;
+}

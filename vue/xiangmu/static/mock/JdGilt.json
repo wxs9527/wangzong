@@ -1,0 +1,133 @@
+{
+  "JdGiltSectionBuy":[
+    {
+      "imgs":"./static/img/shangoubg.jpg",
+      "arr":[
+        {
+          "class":"shangou  shangou1",
+          "img1":"./static/img/shangou1.jpg"
+        },
+        {
+          "class":"shangou  shangou2",
+          "img1":"./static/img/shangou2.jpg"
+        },
+        {
+          "class":"shangou  shangou3",
+          "img1":"./static/img/shangou3.jpg"
+        },
+        {
+          "class":"shangou  shangou4",
+          "img1":"./static/img/shangou4.jpg"
+        }
+      ]
+    }
+  ],
+  "JdGiltSectionDior":{
+    "imgbac":"./static/img/diorbg.jpg",
+    "arr":[
+      {
+        "imgSrc": "./static/img/dior1.jpg",
+        "currMoney": "379",
+        "pastMoney": "399"
+      },
+      {
+        "imgSrc": "./static/img/dior2.jpg",
+        "currMoney": "1239",
+        "pastMoney": "1269"
+      },
+      {
+        "imgSrc": "./static/img/dior3.jpg",
+        "currMoney": "259",
+        "pastMoney": "280"
+      }
+    ]
+  },
+  "JdGiltSectionModel":{
+      "img":"./static/img/watch1.jpg"
+  },
+  "JdGiltSectionDior1":{
+    "imgbac":"./static/img/3c.jpg",
+    "arr":[
+      {
+        "imgSrc": "./static/img/3c1.jpg",
+        "currMoney": "6699",
+        "pastMoney": "6999"
+      },
+      {
+        "imgSrc": "./static/img/3c2.jpg",
+        "currMoney": "11488",
+        "pastMoney": "11588"
+      },
+      {
+        "imgSrc": "./static/img/3c3.jpg",
+        "currMoney": "11900",
+        "pastMoney": "14800"
+      }
+    ]
+  },
+  "JdGiltSectionDior2":{
+    "imgbac":"./static/img/computer.jpg",
+    "arr":[
+      {
+        "imgSrc": "./static/img/computer1.jpg",
+        "currMoney": "7988",
+        "pastMoney": "9988"
+      },
+      {
+        "imgSrc": "./static/img/computer2.jpg",
+        "currMoney": "9688",
+        "pastMoney": "11688"
+      },
+      {
+        "imgSrc": "./static/img/computer3.jpg",
+        "currMoney": "9688",
+        "pastMoney": "11688"
+      }
+    ]
+  },
+  "JdGiltSectionDior3":{
+    "imgbac":"./static/img/furniture.jpg",
+    "arr":[
+      {
+        "imgSrc": "./static/img/furniture1.jpg",
+        "currMoney": "202",
+        "pastMoney": "256"
+      },
+      {
+        "imgSrc": "./static/img/furniture2.jpg",
+        "currMoney": "98",
+        "pastMoney": "256"
+      },
+      {
+        "imgSrc": "./static/img/furniture3.jpg",
+        "currMoney": "107",
+        "pastMoney": "128"
+      }
+    ]
+  },
+
+  "JdGiltSectionModel2": {
+    "img":"./static/img/dabao.jpg"
+  },
+  "JdGiltSectionDior4":{
+    "imgbac":"./static/img/dailisi.jpg",
+    "arr":[
+      {
+        "imgSrc": "./static/img/dailisi1.jpg",
+        "currMoney": "202",
+        "pastMoney": "256"
+      },
+      {
+        "imgSrc": "./static/img/dailisi2.jpg",
+        "currMoney": "98",
+        "pastMoney": "256"
+      },
+      {
+        "imgSrc": "./static/img/dailisi3.jpg",
+        "currMoney": "107",
+        "pastMoney": "128"
+      }
+    ]
+  }
+
+}

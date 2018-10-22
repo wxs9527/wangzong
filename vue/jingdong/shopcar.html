@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>购物车</title>
+    <link rel="stylesheet" href="css/shopcar.css">
+    <link rel="stylesheet" href="css/iconfont.css">
+</head>
+<body>
+<div id="ppi">
+       <div class="app">
+           <span></span>
+           <span>购物车<i class="iconfont icon-dingwei"></i></span>
+           <span class="span">编辑&nbsp;<i class="iconfont icon-xiaoxi"></i></span>
+       </div>
+       <div id="app1">
+           <div class="nav">
+            <ul >
+                <li><input type="checkbox"><img style="margin-left: 0.1rem" src="img/123.jpg" alt="">&nbsp;&nbsp;{{store}}></li>
+                <li>
+                    <div class="left">
+                        <input type="checkbox">
+                    </div>
+                    <div class="right">
+                        <img src="img/12312332.jpg" alt="">
+                        <p>3号保罗新款针织棉外套2018秋冬新款男士青年保暖纯色</p>
+                        <p>宝蓝色L/175<a style="float: right" href="#">选服务</a></p>
+                        <p>￥{{price}}
+                            <span class="right1" >
+                                <input type="button" value="-" @click="jian()">
+                                <span>{{num}}</span>
+                                <input type="button" value="+" @click="jia()">
+                            </span>
+                        </p>
+                    </div>
+                </li>
+            </ul>
+
+           </div>
+
+       </div>
+       <div id="fotter">
+           <a href="#"><i class="iconfont icon-shouye"></i>{{homepage}}</a>
+           <a href="#"><i class="iconfont icon-fenlei"></i>{{classification}}</a>
+           <a href="#"><i class="iconfont icon-faxian"></i>{{discover}}</a>
+           <a href="#"><i class="iconfont icon-gouwuche"></i>{{shoppingcarts}}</a>
+           <a href="#"><i class="iconfont icon-wode"></i>{{my}}</a>
+           <div class="fotter1">
+               <p>
+                   <input type="checkbox">全选
+                   <span style="font-size: 0.19rem">合计：￥0</span>
+               </p>
+               <p>结算({{totalquantity}})</p>
+           </div>
+       </div>
+
+
+</div>
+</body>
+</html>
+<script src="node_modules/vue/dist/vue.js"></script>
+<script src="js/shopcar.js"></script>

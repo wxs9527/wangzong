@@ -1,0 +1,86 @@
+{
+
+  "shang1":[
+              {"id":"1","picImg":"http://localhost:8080/static/img/jd-clothes-17.jpg", "newPrice":"294", "oldPrice":"329"},
+              {"id":"2","picImg":"http://localhost:8080/static/img/jd-clothes-18.jpg", "newPrice":"159", "oldPrice":"258"},
+              {"id":"3","picImg":"http://localhost:8080/static/img/jd-clothes-19.jpg", "newPrice":"123", "oldPrice":"357"},
+              {"id":"4","picImg":"http://localhost:8080/static/img/jd-clothes-20 (1).jpg", "newPrice":"89", "oldPrice":"399"},
+              {"id":"5","picImg":"http://localhost:8080/static/img/jd-clothes-20.jpg", "newPrice":"185", "oldPrice":"299"}
+            ],
+
+  "shang2":[
+    {"picImg":"http://localhost:8080/static/img/jd-clothes-47.jpg"},
+    {"picImg":"http://localhost:8080/static/img/jd-clothes-48.jpg"},
+    {"picImg":"http://localhost:8080/static/img/jd-clothes-49.jpg"},
+    {"picImg":"http://localhost:8080/static/img/jd-clothes-50.jpg"},
+    {"picImg":"http://localhost:8080/static/img/jd-clothes-51.jpg"}
+  ],
+
+  "tab":[
+    {
+      "picImg":"http://localhost:8080/static/img/jd-clothes-53.jpg",
+      "title":"稻草人(MEXICAN)男士钱包男士短款钱包牛皮头层牛",
+      "price":"￥156"
+    },
+    {
+      "picImg":"http://localhost:8080/static/img/jd-clothes-54.jpg",
+      "title":"波斯丹顿男士真皮钱包 男 短款头层牛皮竖款钱夹多卡位复古青年票夹 卡其色B3172092（三折）",
+      "price":"￥145"
+    },
+    {
+      "picImg":"http://localhost:8080/static/img/jd-clothes-54.jpg",
+      "title":"花花公子playboy 男士多功能短款钱包钱夹 头层牛皮革横款多卡位休闲男皮夹PAA2323-6B黑色",
+      "price":"￥170"
+    },
+    {
+      "picImg":"http://localhost:8080/static/img/jd-clothes-53.jpg",
+      "title":"暇步士（Hush Puppies）男士真皮长款钱包青年头层牛皮时尚大容量钱夹手机银行卡拉链包专柜同款 蓝色",
+      "price":"￥126"
+    }
+  ],
+  "tabCard":[
+   {
+      "titleTxt":"精选",
+      "list": [
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"},
+        { "picImg":"http://localhost:8080/static/img/jd-clothes-28.jpg"}
+      ]
+    },
+   {
+     "titleTxt":"国货",
+     "list": [
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"},
+      { "picImg":"http://localhost:8080/static/img/jd-clothes-29.jpg"}
+    ]
+    }
+  ]
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03295aa2-dbd6-49e6-ae3d-3932bf3e292d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="jdPublicFotter.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/components/public/jdPublicFotter.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+              <folding>
+                <element signature="e#730#810#0" />
+                <element signature="e#816#895#0" />
+                <element signature="e#901#992#0" />
+                <element signature="e#998#1074#0" />
+                <element signature="e#1080#1156#0" />
+                <element signature="e#1162#1259#0" />
+                <element signature="e#1265#1353#0" />
+                <element signature="e#1359#1447#0" />
+                <element signature="e#1453#1523#0" />
+                <element signature="e#1529#1599#0" />
+                <element signature="e#1605#1681#0" />
+                <element signature="e#1687#1760#0" />
+                <element signature="e#1766#1839#0" />
+                <element signature="e#1845#1924#0" />
+                <element signature="e#1930#2009#0" />
+                <element signature="e#2053#2130#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gohomeSection.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeSection.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/static/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MineCho.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/MineCho.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-180" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mines.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/Mines.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="e#277#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goHome.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/goHome.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding>
+                <element signature="e#148#209#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gohomeFotter.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeFotter.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="package_json" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xiangmu/src/components/shopcar/jdShopCarHeader.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/shopcar/jdshopli.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/static/carts/mock/carts.json" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/particulars/particularsSection.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/static/tsconfig.json" />
+        <option value="$PROJECT_DIR$/xiangmu/static/package.json" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/jdPartiulars.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/JdGilt.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/static/carts.json" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/shopcar/jdShopCarSection.vue" />
+        <option value="$PROJECT_DIR$/jingdong/gohome.html" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/jdgohome.html" />
+        <option value="$PROJECT_DIR$/jingdong/css/gohome.css" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeHeader.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohome.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeNav.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomLong.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeMiaosha.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeChar.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeFujin.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomFjin.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeSection.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/jdgohome.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/Gilt/JdGiltNav.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/public/jdPublicSetcion.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeHeader.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeFooter.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeContent.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/JdHome.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/App.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/jdHomePages.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/particulars/particularsHeader.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/jdClassifyAll.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/main.js" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/fashionAll.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeSection.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/colthes/jdClothesNav.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/Home.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/Phone.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/public/jdPublicHeader.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/shopcar/jdShopCarFooter.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/jdshopcar.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/Mine.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/static/css/iconfonts.css" />
+        <option value="$PROJECT_DIR$/xiangmu/static/css/index.css" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/public/jdPublicFotter.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/Mines.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/router/index.js" />
+        <option value="$PROJECT_DIR$/xiangmu/index.html" />
+        <option value="$PROJECT_DIR$/xiangmu/src/pages/goHome.vue" />
+        <option value="$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeFotter.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/xiangmu/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/jingdong/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/dom7/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jquery/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ssr-window/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/swiper/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/xiangmu/package.json" />
+      <path value="$PROJECT_DIR$/xiangmu/static/package.json" />
+      <path value="$PROJECT_DIR$/xiangmu/swiper/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="308" />
+    <option name="y" value="98" />
+    <option name="width" value="787" />
+    <option name="height" value="666" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangmu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangmu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangmu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+              <item name="xiangmu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/三阶段 node js/1804-vue" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\src\components\shopcar" />
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\static" />
+      <recent name="C:\Users\Administrator\Desktop\vue\jingdong" />
+      <recent name="C:\Users\Administrator\Desktop\vue\jingdong\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\src\pages" />
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\src\components" />
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\static\json" />
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\static" />
+      <recent name="C:\Users\Administrator\Desktop\vue\xiangmu\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="carserver.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="carserver.js" working-dir="$PROJECT_DIR$/jingdong" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.carserver.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03295aa2-dbd6-49e6-ae3d-3932bf3e292d" name="Default" comment="" />
+      <created>1539484750117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539484750117</updated>
+      <workItem from="1539484800994" duration="1000" />
+      <workItem from="1539484810835" duration="12709000" />
+      <workItem from="1539568208699" duration="63162000" />
+      <workItem from="1539737926944" duration="37610000" />
+      <workItem from="1539788479430" duration="360000" />
+      <workItem from="1539824132500" duration="8180000" />
+      <workItem from="1539847675752" duration="7045000" />
+      <workItem from="1539861264111" duration="10023000" />
+      <workItem from="1539910509909" duration="6327000" />
+      <workItem from="1539916951563" duration="96708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="242125000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24479167" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3284553" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.47854784" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Gilt/JdGiltNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/jdgohome.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#163#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/static/img/jdkb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeBoxContentWordBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#780#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#689#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-194">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/particulars/particularsFotter.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/JdHome.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeContent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="569" column="34" selection-start-line="569" selection-start-column="34" selection-end-line="569" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/particulars/particularsHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/jdClassifyAll.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#141#214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/fashion/jdFashionBanner.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/fashionAll.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#279#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/Home/JdHomeSection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/jdHomePages.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="e#152#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/static/css/gohome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/jdgohome/HomeHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/colthes/jdClothesHeader.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/colthes/jdClothesNav.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1063">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding>
+            <element signature="e#333#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/colthes/jdClothesOne.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/jdshop/MineHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/shopcar/jdShopCarHeader.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/jdshopcar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#234#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/shopcar/jdShopCarSection.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/public/jdPublicSetcion.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/public/jdPublicHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#a#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/Phone.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/jdshop/jdPublicFotter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/jdapple/jdPublicFotter.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/Mine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#711#768#0" expanded="true" />
+            <element signature="e#1433#1492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/shopcar/jdShopCarFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/JdTrip.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <folding>
+            <element signature="e#140#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohome.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/static/css/iconfonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/jd/MineFooter.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/MineCho.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/Mines.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="e#277#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeChar.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="59" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/public/jdPublicFotter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeNav.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeSection.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/pages/goHome.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#148#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/components/gohome/gohomeFotter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jingdong/gohome.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiangmu/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+          <folding>
+            <element signature="e#730#810#0" />
+            <element signature="e#816#895#0" />
+            <element signature="e#901#992#0" />
+            <element signature="e#998#1074#0" />
+            <element signature="e#1080#1156#0" />
+            <element signature="e#1162#1259#0" />
+            <element signature="e#1265#1353#0" />
+            <element signature="e#1359#1447#0" />
+            <element signature="e#1453#1523#0" />
+            <element signature="e#1529#1599#0" />
+            <element signature="e#1605#1681#0" />
+            <element signature="e#1687#1760#0" />
+            <element signature="e#1766#1839#0" />
+            <element signature="e#1845#1924#0" />
+            <element signature="e#1930#2009#0" />
+            <element signature="e#2053#2130#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
