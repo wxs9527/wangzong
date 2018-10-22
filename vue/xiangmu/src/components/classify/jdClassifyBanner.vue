@@ -2,10 +2,10 @@
 
       <div class="swiper-container">
         <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src="../../../static/img/jd-classify-1.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="../../../static/img/jd-classify-1.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="../../../static/img/jd-classify-1.jpg" alt=""></div>
-          <div class="swiper-slide"><img src="../../../static/img/jd-classify-1.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="../../../static/img/clothesbanner.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="../../../static/img/clothesbanner2.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="../../../static/img/clothesbanner3.jpg" alt=""></div>
+          <div class="swiper-slide"><img src="../../../static/img/jd-clothes-1.jpg" alt=""></div>
 
         </div>
       </div>

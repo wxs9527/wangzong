@@ -5,7 +5,7 @@
       <li><a href="javascript:;"  @click="str=1">手机数码</a></li>
       <li><a href="javascript:;"  @click="str=2">家用电器</a></li>
       <li><a href="javascript:;"  @click="str=3"> 电脑办公</a></li>
-      <li><a href="javascript:;"  @click="str=4">计生情趣</a></li>
+      <li><a href="javascript:;"  @click="str=4">钟表珠宝</a></li>
       <li><a href="javascript:;"  @click="str=5">美妆护肤</a></li>
       <li><a href="javascript:;"  @click="str=6">个护清洁</a></li>
       <li><a href="javascript:;"  @click="str=7">汽车用品</a></li>

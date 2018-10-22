@@ -2,7 +2,7 @@
   <header class="clear">
     <div class="header_banner_box">
         <div class="bbb">
-          <jd-classify-banner></jd-classify-banner>
+          <jd-classify-banner ></jd-classify-banner>
         </div>
 
 

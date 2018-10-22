@@ -3,19 +3,23 @@
 
       <div class="liuxing">
         <img class="liuxing_img" src="../../../static/img/jd-fashion-10.png" alt="">
-        <ul class="ulBoxOne">
+        <ul class="ulBoxOne" id="ulBoxOne">
           <li><img src="../../../static/img/jd-fashion-11.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-12.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-13.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-14.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-15.jpg" alt=""></li>
+          <li><img src="../../../static/img/jd-fashion-12.jpg" alt=""></li>
+          <li><img src="../../../static/img/jd-fashion-13.jpg" alt=""></li>
         </ul>
-        <ul class="ulBoxTwo">
+        <ul class="ulBoxTwo" id="ulBoxTwo">
           <li><img src="../../../static/img/jd-fashion-11.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-12.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-13.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-14.jpg" alt=""></li>
           <li><img src="../../../static/img/jd-fashion-15.jpg" alt=""></li>
+          <li><img src="../../../static/img/jd-fashion-12.jpg" alt=""></li>
+          <li><img src="../../../static/img/jd-fashion-13.jpg" alt=""></li>
         </ul>
       </div>
 
@@ -95,7 +99,44 @@
 
 <script>
     export default {
-        name: "jdFashionTwo"
+        name: "jdFashionTwo",
+      mounted(){
+          window.onload=function(){
+            let one = document.getElementById("ulBoxOne");
+            let two =  document.getElementById("ulBoxTwo");
+
+            let left=0;
+            let direction = -1;
+            let speed = 1;
+
+
+            let mytimer = setInterval(function(){
+              left = left + speed * direction ;
+              if(left<=-226){
+                direction = 1;
+              }else if(left>=0){
+                direction = -1;
+              }
+              one.style.marginLeft = left + "px";
+            },100);
+
+            let left1 = -226;
+            let speed1 = 1;
+            let direction1 = 1;
+             let mytimer1 = setInterval(function(){
+              left1 = left1 + speed1 * direction1;
+               if(left1>=20){
+                 direction1 = -1
+                 if(left1<=-200){
+                   direction1 = 1
+                 }
+               }
+               two.style.marginLeft = left1 + "px";
+             },100)
+
+
+          }
+      }
     }
 </script>
 
@@ -106,6 +147,7 @@
     background-color: #f6f6f6;
     padding-top:0.18rem;
     box-sizing: border-box;
+    position: relative;
   }
   .liuxing .liuxing_img{
     width: 100%;
@@ -113,6 +155,7 @@
   .liuxing .ulBoxOne{
     display: -webkit-flex;
     overflow: hidden;
+    /*position: absolute;*/
   }
   .liuxing .ulBoxOne img,
   .liuxing .ulBoxTwo img{
@@ -126,7 +169,9 @@
     padding: 0.05rem 0;
     box-sizing: border-box;
   }
-
+#ulBoxTwo{
+  margin-left: -2.1rem;
+}
   /*brandsBox*/
 
   .brandsBox{

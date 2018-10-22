@@ -1,7 +1,7 @@
 <template>
   <footer>
     <img src="../../../static/img/jd-clothes-55.png" alt="">
-    <img src="../../../static/img/jd-clothes-56.png" alt="">
+    <router-link to="/fashionAll"><img src="../../../static/img/jd-clothes-56.png" alt=""></router-link>
     <img src="../../../static/img/jd-clothes-57.jpg" alt="">
     <img src="../../../static/img/jd-clothes-58.png" alt="">
   </footer>
